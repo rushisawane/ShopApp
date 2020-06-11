@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Shop App",
+    "slug": "shop-app",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "ios": {
+      "bundleIdentifier": "com.mindscrub.shopapp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.mindscrub.shopapp",
+      "versionCode": 1
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+   
+    "description": ""
+  }
+}
